@@ -2,7 +2,7 @@
 
 **Teknik mülakat soruları ve puanlanan mülakat simülasyonu — 11 alan, 50 uzmanlık, 29.400 soru, TR + EN.**
 
-🔗 **[yokla.dev](https://yokla.dev)** · Ücretsiz, kayıt gerekmiyor.
+🔗 **[yokla.dev](https://yokla.dev?utm_source=github&utm_medium=readme&utm_campaign=yokla-dev)** · Ücretsiz, kayıt gerekmiyor.
 
 ---
 
@@ -26,7 +26,7 @@ Elindeki iş ilanının metnini yapıştırıp mülakatı ilana göre kurdurabil
 
 Mülakata girmeden soruları cevapları ve açıklamalarıyla inceleyebilirsin:
 
-- [Tüm alanlar](https://yokla.dev/mulakat-sorulari)
+- [Tüm alanlar](https://yokla.dev/mulakat-sorulari?utm_source=github&utm_medium=readme&utm_campaign=yokla-dev)
 - [Backend mülakat soruları](https://yokla.dev/mulakat-sorulari/backend) ·
   [Frontend](https://yokla.dev/mulakat-sorulari/frontend) ·
   [Veritabanı](https://yokla.dev/mulakat-sorulari/database) ·
@@ -86,12 +86,12 @@ probda **en uzun kesinti 0 saniye**.
 29.400 sorunun tamamı AI ile üretildi, ama asıl iş doğrulamada. Her uzmanlık hücresi
 (6 topic × 3 kıdem × 25 = 450 soru) **dört fazdan** geçiyor:
 
-1. **Üretim** — her topic ayrı bir ajanda, her sayısal iddia canlı motorda *fiilen koşturularak*
+1. **Üretim** — her topic ayrı bir ajanda, her sayısal iddia *fiilen çalıştırılıp ölçülerek*
 2. **Bağımsız denetim** — başka bir ajan her iddiayı sıfırdan yeniden ölçer
 3. **Zorunlu ikinci göz** — hiçbir şeyden haberi olmayan taze bir denetçi (salt-okunur)
 4. **Hedefli düzeltme** — 3. fazın bulgularını *doğrulayarak* uygular; doğrulanamayan bulgu uygulanmaz
 
-Canlı motor gerçek bir fark yaratıyor. Son üç hücrede üretici ajanların **kendi taslaklarında**
+Kodu gerçekten çalıştırmak fark yaratıyor. Son üç hücrede üretici ajanların **kendi taslaklarında**
 buldukları yanlış iddia sayısı: **29 → 37 → 144**. Çoğu yaygın klişenin tersi çıktı:
 
 - *"Ağaç modelleri etkileşimi zaten öğrenir"* — derinlik-1'de **R² = −0.024**; açık çarpım
@@ -123,9 +123,9 @@ Sonraki hücrede aynı desenin **ikinci hali** bulundu: gerekçe bağlacı (`bec
 
 ## Bağlantılar
 
-- 🌐 **[yokla.dev](https://yokla.dev)** — ürün
+- 🌐 **[yokla.dev](https://yokla.dev?utm_source=github&utm_medium=readme&utm_campaign=yokla-dev)** — ürün
 - 📄 [Hakkında](https://yokla.dev/hakkinda) · [Gizlilik](https://yokla.dev/gizlilik)
-- 📚 [Mülakat soruları kataloğu](https://yokla.dev/mulakat-sorulari)
+- 📚 [Mülakat soruları kataloğu](https://yokla.dev/mulakat-sorulari?utm_source=github&utm_medium=readme&utm_campaign=yokla-dev)
 
 Soru, hata bildirimi veya geri bildirim için **Issues** açabilirsin.
 
